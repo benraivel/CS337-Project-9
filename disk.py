@@ -4,7 +4,7 @@
 import numpy as np
 
 
-class Disc:
+class Disk:
 
     def __init__(self, n_platters=2, blocks=1000):
         '''
